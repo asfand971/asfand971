@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on creating a Pen-Test reporting tool over at Calian Group Ltd.<br>🤝 I have a knack for designing system architecture and working with Cloud Infrastructure.<br>🌱 I’m already well-versed in GO, JavaScript/TypeScript, Python & C++.<br>💬 Want to collaborate - over something interesting and challenging.<br>⚡ Fun fact - My middle name is "Yar" which translates to friend.
+🔭 I'm currently working on creating a Pen-Test reporting tool over at Calian Group Ltd.<br>🤝 I have a knack for designing system architecture and working with Cloud Infrastructure.<br>🌱 I’m already well-versed in GO, JavaScript/TypeScript, Python, C++, ASP.net & Java.<br>💬 Want to collaborate - over something interesting and challenging.<br>⚡ Fun fact - My middle name is "Yar" which translates to friend.
 
 
 ## 🌐 Socials:
